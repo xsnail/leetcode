@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545211715 source:d:\cprojects\leetcode\nowcoder\1219_insertionsortlist\main.cpp
+	<iostream>
+	<stdio.h>
+
